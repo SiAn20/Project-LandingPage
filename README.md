@@ -1,5 +1,37 @@
 # Store
 
+## 🛠️ How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SiAn20/Project-LandingPage.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Project-LandingPage
+```
+
+3. Install the dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+ng serve --open
+```
+
+Open in the browser: http://localhost:4200The project will automatically reload upon any changes.
+
+## Demo
+
+## 📌 Additional Notes
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
 ## Development server
