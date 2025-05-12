@@ -1,4 +1,4 @@
-# Store
+# Project-LandingPage
 
 ## 🛠️ How to Run the Project
 
