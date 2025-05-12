@@ -31,12 +31,10 @@ Open in the browser: http://localhost:4200The project will automatically reload 
 ## Demo
 
 <p align="center">
-  <img src="./assets/img1.png" width="200">
-  <img src="./assets/img1.png" width="200">
-  <img src="./assets/img1.png" width="200">
+  <img src="./src/assets/img1.png" width="500">
+  <img src="./src/assets/img2.png" width="500">
+  <img src="./src/assets/img3.png" width="500">
 </p>
-
-![](./assets/img1.png)
 
 ## 📌 Additional Notes
 
