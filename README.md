@@ -30,6 +30,14 @@ Open in the browser: http://localhost:4200The project will automatically reload 
 
 ## Demo
 
+<p align="center">
+  <img src="./assets/img1.png" width="200">
+  <img src="./assets/img1.png" width="200">
+  <img src="./assets/img1.png" width="200">
+</p>
+
+![](./assets/img1.png)
+
 ## 📌 Additional Notes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
