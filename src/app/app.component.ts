@@ -1,18 +1,13 @@
 import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.css',
+  standalone: true,
+  imports: [CommonModule, RouterOutlet],
+  template: '<router-outlet />'
 })
 export class AppComponent {
-  title = 'Todo App';
-  welcome = 'Welcome to the Todo App';
-  tasks = [
-    'hola',
-    'hello',
-    'bonjour',
-  ];
+  title = 'store';
 }
